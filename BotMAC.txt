@@ -1,0 +1,7 @@
+black: ac:27:6e:7d:3b:94
+pink: ac:27:6e:7e:5e:b0
+blue: ac:27:6e:7c:9c:78
+green: b0:a6:04:00:d9:64
+
+meatloaf: ac:27:6e:7e:b1:6c
+broken board: ac:27:6e:7e:be:8c
